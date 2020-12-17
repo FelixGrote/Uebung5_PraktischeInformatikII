@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<adressbuch>
+<bezeichnung> <![CDATA[Mein Mein erstes <XML>Adressbuch]]></bezeichnung>
+<adresse id="A1">
+ <vorname> Max </vorname> 
+<nachname>Müller</nachname>
+<email>max@mueller.de </email>
+<telefon land="+34" vorwahl="33??"> ??6669888 </telefon>
+<notiz> Mein Box-Trainer</notiz>
+</adresse>
+
+<adresse id="A2">
+ <vorname>Martina </vorname> 
+<nachname>Kramer</nachname>
+<email>martina@kramer.de </email>
+<telefon land="D" vorwahl="34309"> 9229922</telefon>
+<notiz> Meine Psychologin</notiz>
+</adresse>
+
+<adresse id="A3">
+ <vorname>Toni </vorname> 
+<nachname>Schmidt</nachname>
+<email>tschmidt@uni-mannheim.de </email>
+<telefon land="D" vorwahl="0621"> 1811818 </telefon>
+</adresse>
+
+
+</adressbuch>
